@@ -1,0 +1,4 @@
+[package]
+name    = "RustReact"
+version = "0.0.1"
+authors = ["Maik Klein"]
